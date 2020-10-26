@@ -1,3 +1,4 @@
+{
   "users": [
     {
     "login": "mojombo",
@@ -600,3 +601,4 @@
     "site_admin": false
   }
  ]
+}
