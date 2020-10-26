@@ -1,4 +1,5 @@
-  {
+  "users": [
+    {
     "login": "mojombo",
     "id": 1,
     "node_id": "MDQ6VXNlcjE=",
@@ -598,4 +599,4 @@
     "type": "User",
     "site_admin": false
   }
-
+ ]
